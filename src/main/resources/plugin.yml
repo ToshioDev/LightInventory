@@ -1,0 +1,3 @@
+name: LightInventory
+version: '${project.version}'
+main: me.nekocraft.LightInventory
